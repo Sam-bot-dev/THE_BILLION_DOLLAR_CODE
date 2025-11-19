@@ -1,5 +1,9 @@
 # THE_BILLION_DOLLAR_CODE
 CASE STUDY ON TERRAVISION
+## 🌍 Google Earth Interface (Example)
+
+![Google Earth Screenshot](GOOGLEEARTH.png)
+
 # Terravision vs Google Earth — IPR Case Study
 
 This repository contains a comprehensive case study of the intellectual property (IPR) dispute between **ART+COM** (Terravision) and **Google** (Google Earth).
