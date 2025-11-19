@@ -2,7 +2,7 @@
 CASE STUDY ON TERRAVISION
 ## 🌍 Google Earth Interface (Example)
 
-![Google Earth Screenshot](GOOGLEEARTH.png)
+![Google Earth Screenshot](GOOGLE_EARTH.png)
 
 # Terravision vs Google Earth — IPR Case Study
 
