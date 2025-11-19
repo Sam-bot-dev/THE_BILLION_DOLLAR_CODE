@@ -66,8 +66,7 @@ This repository contains a comprehensive case study of the intellectual property
 
 ## ✅ How to Use This Repo
 
-- 💼 **For Students / Researchers:** Use the slides and docs to prepare a case study or presentation.  
-- 📚 **For Legal / IP Enthusiasts:** Read the court judgment and patent to understand how prior art was used in litigation.  
+- 💼 **For Students / Researchers:** Use the slides and docs to prepare a case study or presentation.   
 - 🛠 **For Developers / Designers:** Use the timeline scripts to make visual tools that help explain the case flow.
 
 ---
