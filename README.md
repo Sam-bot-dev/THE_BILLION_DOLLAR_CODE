@@ -81,4 +81,19 @@ Contributions are welcome! Feel free to:
 
 ---
 
+## 🔗 Connect With Me
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <div>
+          <img src="https://avatars.githubusercontent.com/Sam-bot-dev?s=120" width="120px;" height="120px;" alt="Bhavesh"/>
+        </div>
+        <div><strong>Lead Dev</strong></div>
+        <div><strong>Bhavesh</strong></div>
+        <a href="https://github.com/Sam-bot-dev">🌐 GitHub</a>
+      </td>
+    </tr>
+  </table>
+</p>
